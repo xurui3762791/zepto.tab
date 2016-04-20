@@ -15,6 +15,4 @@ zepto.tab 是一款支持触摸屏下的tab插件，依赖zepto.js
 如若构建失败，请检查ant是否安装正确
 
 
-##Issues
-- [report question](https://github.com/xurui3762791/zepto.tab/issues "report question")
 
